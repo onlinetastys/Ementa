@@ -2,11 +2,11 @@
 	{
 		"PlateType": "Peixe",
 		"PlateName": "Bacalhau com Broa",
-		"PlateDescription":"Bacalhau com Broa, cozinhado em forno de lenha com acompanhamento de cebolada."
+		"PlateDescription":"Bacalhau com Broa, cozinhado em forno de lenha. Acompanhado com batata frita e cebola salteada"
 	},
 	{
 		"PlateType": "Carne",
-		"PlateName": "Carne Com Arroz",
-		"PlateDescription":"Muito saboroso e gostoso"
+		"PlateName": "Frango assado na brasa",
+		"PlateDescription":"Frango assado em brasa de carvão vegetal biológico. Acompanhado com batata frita, arroz e migas"
 	}
 ]
